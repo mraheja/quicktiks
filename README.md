@@ -2,10 +2,13 @@
 
 ## Examples
 
+[![](http://img.youtube.com/vi/8Pt4TxqblJk/0.jpg)](https://youtu.be/8Pt4TxqblJk "trump dancing")
 [![](http://img.youtube.com/vi/a6AanOreptI/0.jpg)](https://youtu.be/a6AanOreptI "david dancing")
 
 ## Demo
 
+
+[![](http://img.youtube.com/vijWAk5QTNNZQ/0.jpg)](https://youtu.be/jWAk5QTNNZQ "demo")
 
 ## Usage
 
